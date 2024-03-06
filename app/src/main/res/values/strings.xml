@@ -1,0 +1,19 @@
+<resources>
+<string name="app_name">Sixteen Personalities</string>
+<string name="fact_1">INFPs are imaginative idealists, guided by their own core values and beliefs.</string>
+<string name="fact_2">INTJs are analytical problem-solvers, eager to improve systems and processes with their innovative ideas.</string>
+<string name="fact_3">INFJs are creative nurturers with a strong sense of personal integrity and a drive to help others realize their potential.</string>
+<string name="fact_4">INTPs are philosophical innovators, fascinated by logical analysis, systems, and design.</string>
+<string name="fact_5">ENFPs are people-centered creators with a focus on possibilities and a contagious enthusiasm for new ideas, people and activities. </string>
+<string name="fact_6">ENTJs are strategic leaders, motivated to organize change.</string>
+<string name="fact_7">ENTPs are inspired innovators, motivated to find new solutions to intellectually challenging problems.</string>
+<string name="fact_8">ENFJs are idealist organizers, driven to implement their vision of what is best for humanity.</string>
+<string name="fact_9">ISFJs are industrious caretakers, loyal to traditions and organizations.</string>
+<string name="fact_10">ISFPs are gentle caretakers who live in the present moment and enjoy their surroundings with cheerful, low-key enthusiasm.</string>
+<string name="fact_11">ISTJs are responsible organizers, driven to create and enforce order within systems and institutions.</string>
+<string name="fact_12">ISTPs are observant artisans with an understanding of mechanics and an interest in troubleshooting.</string>
+<string name="fact_13">ESFJs are conscientious helpers, sensitive to the needs of others and energetically dedicated to their responsibilities.</string>
+<string name="fact_14">ESFPs are vivacious entertainers who charm and engage those around them.</string>
+<string name="fact_15">ESTJs are hardworking traditionalists, eager to take charge in organizing projects and people.</string>
+<string name="fact_16">ESTPs are energetic thrill seekers who are at their best when putting out fires, whether literal or metaphorical.</string>
+</resources>
